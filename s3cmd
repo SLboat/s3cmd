@@ -5,6 +5,7 @@
 ##         http://www.logix.cz/michal
 ## License: GPL Version 2
 
+## 想法：让空目录回去
 import sys
 
 if float("%d.%d" %(sys.version_info[0], sys.version_info[1])) < 2.4:
